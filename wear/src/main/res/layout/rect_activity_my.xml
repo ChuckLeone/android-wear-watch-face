@@ -6,7 +6,7 @@
     android:orientation="vertical"
     tools:context=".MyActivity"
     tools:deviceIds="wear_square"
-    android:background="@drawable/background_dark_magic">
+    android:background="@drawable/background_shadows2">
 
     <AnalogClock
         android:layout_width="fill_parent"
